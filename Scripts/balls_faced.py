@@ -1,3 +1,4 @@
+# Plot of the number of deliveries faced by Tendulkar, Dravid, Laxman, Pujara, and Ponting in Tests.
 import matplotlib.pyplot as plt 
 players = ['Tendulkar', 'Dravid', 'Laxman', 'Pujara', 'Ponting']
 bf = [5493, 5432, 4480, 4469, 4428]
