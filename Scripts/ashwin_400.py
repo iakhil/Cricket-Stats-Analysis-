@@ -22,6 +22,8 @@ import numpy as np
 # axes.set_xticklabels(teams, rotation = 0, fontsize = 20)
 # axes.set_yticklabels(wkts, rotation = 0, fontsize = 20)
 # plt.show()
+
+# Plot home vs away
 wk = [196, 205]
 labels = ['Home', 'Away']
 colors = ['#fcba03', '#210505']
