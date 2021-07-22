@@ -1,3 +1,4 @@
+# Comparison of the career average of Smith, Labuschagne, and Mayank Agarwal over the course of the Tests series between Australia and India (2020/21). 
 import matplotlib.pyplot as plt 
 inns = [0, 1, 2, 3, 4]
 smith = [62.84, 62.31, 62.31, 61.78, 61.33]
