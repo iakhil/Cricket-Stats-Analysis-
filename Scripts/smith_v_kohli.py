@@ -1,3 +1,4 @@
+# Comparision between Steve Smith and Virat Kohli based on the number of centuries scored each year since their debuts. 
 import matplotlib.pyplot as plt 
 x = [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
 smith = [0, 2, 7, 13, 17, 23, 23, 26, 26, 27]
