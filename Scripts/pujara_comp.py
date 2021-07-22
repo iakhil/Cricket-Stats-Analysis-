@@ -1,3 +1,4 @@
+# Plot of the number of balls faced by Pujara in 2018/19 Border-Gavaskar Trophy and 2020/21 Border-Gavaskar Trophy. 
 import matplotlib.pyplot as plt 
 x = [1, 2]
 bf = [1258, 928]
