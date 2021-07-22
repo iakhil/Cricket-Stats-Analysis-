@@ -1,3 +1,4 @@
+# Script to find cummulative wickets of Ashwin in Tests.
 import pandas as pd 
 data = pd.read_csv('ashwin.csv')
 #wickets = data.loc[:,['Wkts']]
